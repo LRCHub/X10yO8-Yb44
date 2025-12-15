@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Sophie",
+  "base_artist": "Ave Mujica",
+  "createdAt": "2025-12-15T06:22:31.435171Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Moteur action (SOPHIE & A. G. Cook remix)",
+      "artist": "Yelle",
+      "has_synced": true,
+      "path": "select/01_Moteur_action_(SOPHIE_&_A._G._Cook_remix)_Yelle.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "La Chiqui (feat. SOPHIE)",
+      "artist": "Arca",
+      "has_synced": true,
+      "path": "select/02_La_Chiqui_(feat._SOPHIE)_Arca.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "No Angel (Sophie Version)",
+      "artist": "Charli XCX",
+      "has_synced": true,
+      "path": "select/03_No_Angel_(Sophie_Version)_Charli_XCX.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "clown shit (up the wall) [SOPHIE Remix]",
+      "artist": "BABYNYMPH feat. SOPHIE & BAYLI",
+      "has_synced": true,
+      "path": "select/04_clown_shit_(up_the_wall)_[SOPHIE_Remix]_BABYNYMPH_feat._SOPHIE_&_BAYLI.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "clown shit (up the wall) (SOPHIE Remix)",
+      "artist": "BabyNymph & BAYLI",
+      "has_synced": true,
+      "path": "select/05_clown_shit_(up_the_wall)_(SOPHIE_Remix)_BabyNymph_&_BAYLI.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "9 (After Coachella) (feat. MØ & Sophie)",
+      "artist": "Cashmere Cat",
+      "has_synced": true,
+      "path": "select/06_9_(After_Coachella)_(feat._MØ_&_Sophie)_Cashmere_Cat.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Sweat (feat. LIZ) [SOPHIE Remix]",
+      "artist": "SONIKKU",
+      "has_synced": true,
+      "path": "select/07_Sweat_(feat._LIZ)_[SOPHIE_Remix]_SONIKKU.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Sweat (SOPHIE Remix)",
+      "artist": "SONIKKU",
+      "has_synced": true,
+      "path": "select/08_Sweat_(SOPHIE_Remix)_SONIKKU.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Spinning (feat. Sophie Barker)",
+      "artist": "Zero 7 feat. Sophie Barker",
+      "has_synced": false,
+      "path": "select/09_Spinning_(feat._Sophie_Barker)_Zero_7_feat._Sophie_Barker.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Voices (feat. Sophie & Kučka)",
+      "artist": "Flume",
+      "has_synced": true,
+      "path": "select/10_Voices_(feat._Sophie_&_Kučka)_Flume.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "1,2,3 Dayz Up (feat. Sophie)",
+      "artist": "Kim Petras",
+      "has_synced": true,
+      "path": "select/11_1,2,3_Dayz_Up_(feat._Sophie)_Kim_Petras.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Song For Sophie",
+      "artist": "Aura Dione",
+      "has_synced": false,
+      "path": "select/12_Song_For_Sophie_Aura_Dione.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Sophie",
+      "artist": "Small Black",
+      "has_synced": true,
+      "path": "select/13_Sophie_Small_Black.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Song Of I (feat. Sophie Hunger)",
+      "artist": "Steven Wilson Sophie Hunger",
+      "has_synced": true,
+      "path": "select/14_Song_Of_I_(feat._Sophie_Hunger)_Steven_Wilson_Sophie_Hunger.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Set Piece (feat. sophie meiers & Ivy Sole)",
+      "artist": "Vansire feat. Sophie Meiers & Ivy Sole",
+      "has_synced": true,
+      "path": "select/15_Set_Piece_(feat._sophie_meiers_&_Ivy_Sole)_Vansire_feat._Sophie_Meiers_&_Ivy_Sole.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Set Piece (feat. Sophie Meiers & Ivy Sole)",
+      "artist": "Vansire",
+      "has_synced": true,
+      "path": "select/16_Set_Piece_(feat._Sophie_Meiers_&_Ivy_Sole)_Vansire.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Sophie",
+      "artist": "Ave Mujica",
+      "has_synced": false,
+      "path": "select/pl_01_Sophie_Ave_Mujica.txt"
+    }
+  ]
+}
